@@ -10,3 +10,10 @@ streamlit
 plotly
 seaborn
 matplotlib
+
+
+
+deployed on azure cloud via docker image
+
+
+
